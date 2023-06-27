@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Application
+comment1.params=
+comment1.target=Application()
+comment1.text=\r\n\ Application\ constructor\ initializes\ the\ CarPark\ and\ Scanner\ objects.\r\n
+comment2.params=
+comment2.target=void\ displayMenu()
+comment2.text=\r\n\ Displays\ the\ menu\ options\ to\ the\ user\ and\ handles\ user\ inputs.\r\n\ This\ method\ provides\ a\ loop\ that\ presents\ the\ user\ with\ a\ menu\r\n\ of\ actions\ they\ can\ perform\ on\ the\ car\ park\ until\ they\ choose\ to\ exit.\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ The\ main\ method\ serves\ as\ the\ entry\ point\ for\ the\ application.\r\n\ This\ method\ creates\ an\ Application\ object\ and\ calls\ the\ displayMenu\ method.\r\n\ \r\n\ @param\ args\ command\ line\ arguments\ (unused\ in\ this\ application)\r\n
+numComments=4

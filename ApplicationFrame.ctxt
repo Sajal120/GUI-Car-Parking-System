@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ApplicationFrame
+comment0.text=\r\n\ This\ class\ represents\ an\ application\ frame\ for\ a\ car\ park\ management\ system.\r\n\ The\ frame\ contains\ various\ buttons\ for\ managing\ the\ car\ park\ and\ a\ text\ area\r\n\ to\ display\ information\ related\ to\ the\ actions\ performed.\r\n
+comment1.params=
+comment1.target=ApplicationFrame()
+comment1.text=\r\n\ Constructor\ for\ ApplicationFrame.\ Initializes\ the\ CarPark\ object,\r\n\ the\ buttons\ for\ various\ actions,\ and\ the\ text\ area\ for\ displaying\ data.\r\n\ It\ also\ calls\ methods\ to\ initialize\ the\ graphical\ user\ interface\ and\ the\ menu.\r\n
+comment2.params=
+comment2.target=void\ initMenu()
+comment2.text=\r\n\ Initializes\ the\ menu\ bar\ with\ a\ file\ menu\ containing\ a\ creator\ info\r\n\ menu\ item\ and\ an\ exit\ menu\ item.\r\n
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=
+comment5.target=void\ initGUI()
+comment5.text=\r\n\ Initializes\ the\ graphical\ user\ interface\ by\ setting\ up\ the\ frame\ title,\r\n\ size,\ and\ layout.\ It\ also\ sets\ up\ the\ action\ buttons,\ their\ fonts,\r\n\ and\ colors,\ as\ well\ as\ the\ text\ area\ for\ displaying\ data.\r\n
+comment6.params=
+comment6.target=boolean\ confirmCancel()
+comment6.text=\r\n\ Displays\ a\ confirmation\ dialog\ to\ confirm\ the\ cancellation\ of\ an\ action.\r\n\ \r\n\ @return\ true\ if\ the\ user\ confirms\ the\ cancellation,\ false\ otherwise.\r\n
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.text=This\ method\ handles\ the\ actions\ performed\ by\ clicking\ the\ buttons
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
